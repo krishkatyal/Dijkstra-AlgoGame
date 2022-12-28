@@ -20,6 +20,6 @@ Below is the code while its running.
 
 
 
-What happens if there is a surrounding wall around the end node ?
+What happens if there is a surrounding wall around the end node  ?
 
 <img src="https://user-images.githubusercontent.com/89596037/208768776-88895d57-e9ff-43ae-a257-f5cf3b558c57.png" width="350"/>
